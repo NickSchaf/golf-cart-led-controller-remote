@@ -1,0 +1,2 @@
+COMPONENT_SRCDIRS:=./i2c_manager/
+COMPONENT_ADD_INCLUDEDIRS:=./i2c_manager/

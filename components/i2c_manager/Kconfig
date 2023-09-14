@@ -1,0 +1,4 @@
+config HAVE_I2C_MANAGER
+def_bool y
+
+rsource "i2c_manager/Kconfig"
